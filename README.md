@@ -13,7 +13,7 @@ Feel free to clone it and learn how to implement dark mode using the JavaScript 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Dev-glory0/darkmode.git
+    git clone https://github.com/glorisonglotech/darkmode.git
     ```
 2. Navigate to the project directory:
     ```bash
